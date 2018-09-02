@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.931,=D:\9 Tone Generator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,=D:\9 Tone Generator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,D:\9 Tone Generator\Unit1.pas=D:\9 Tone Generator\uSoundTypes1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,D:\9 Tone Generator\Unit1.pas=D:\9 Tone Generator\uToneGenerator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,C:\Users\Dino\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Dino\Documents\Embarcadero\Studio\Projects\uSoundTypes.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,D:\9 Tone Generator\uSoundTypes1.pas=D:\9 Tone Generator\uSoundTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\9 Tone Generator\uSoundTypes.dfm=D:\9 Tone Generator\UfrmMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,C:\Users\Dino\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dino\Documents\Embarcadero\Studio\Projects\uSoundTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,=C:\Users\Dino\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,C:\Users\Dino\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\9 Tone Generator\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,C:\Users\Dino\Documents\Embarcadero\Studio\Projects\uSoundTypes.dfm=D:\9 Tone Generator\uSoundTypes.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,C:\Users\Dino\Documents\Embarcadero\Studio\Projects\uSoundTypes.pas=D:\9 Tone Generator\uSoundTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,H:\1\9 Tone Generator\uSoundTypes.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,D:\9 Tone Generator\uSoundTypes.pas=D:\9 Tone Generator\UfrmMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
